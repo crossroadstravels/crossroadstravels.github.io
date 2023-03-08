@@ -1,0 +1,5 @@
+HERO : WIDTH  = 1920 
+       HEIGHT = 1536 
+
+MINI : WIDTH  = 500 
+       HEIGHT = 500 
